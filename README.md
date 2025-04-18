@@ -1,4 +1,4 @@
-### Hi there 👋, Agustín Asuaje
+### Hi there 👋,  I'm Agustín Asuaje
 #### Data Scientist | Project Manager | Pharmacist | PhD
 ![Data Scientist | Project Manager | Pharmacist | PhD](https://github.com/el-asu/el-asu/blob/eeaa58a1470ce947f1f695ba46ae03f6d957c4f9/AA_Data%20Scientist.jpg)
 
