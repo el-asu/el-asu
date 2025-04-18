@@ -12,7 +12,7 @@ Before this role, I had the privilege of working at the **Francis Crick Institut
 
 My scientific journey began in Argentina, where I earned a **PhD** at the Institute of Immunological and Physiopathological Studies (IIFP). My research focused on the role of ion channels in regulating pH in tumor cells.
 
-**Skills: Python programming (Pandas, SciPy, Scikit-learn, TensorFlow, PyTorch, Streamlit), machine learning model development, AWS, Spark, Docker, R.**
+**Skills:** Python programming (Pandas, SciPy, Scikit-learn, TensorFlow, PyTorch, Streamlit, PyKE), machine learning model development, AWS, Spark, Docker, R.
 
 
 
