@@ -1,6 +1,6 @@
 ### Hi there 👋, Agustín Asuaje
 #### Data Scientist | Project Manager | Pharmacist | PhD
-![Data Scientist | Project Manager | Pharmacist | PhD](AA_Data Scientist.jpg)
+![Data Scientist | Project Manager | Pharmacist | PhD](https://github.com/el-asu/el-asu/blob/eeaa58a1470ce947f1f695ba46ae03f6d957c4f9/AA_Data%20Scientist.jpg)
 
 I’m a Data Scientist and Pharmacist (PhD) whose professional journey has been shaped by diverse experiences aimed at enhancing business value and contributing to the scientific community by making Data Science more accessible to non-specialists.
 
